@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Currency</string>
+    <string name="app_icon">App Icon</string>
+    <string name="sel_prompt_1">Currency 1</string>
+    <string name="sel_prompt_2">Currency 2</string>
+    <string name="empty" />
+    <string name="convert_currency">Convert Currency</string>
+    <string name="unit_1">Unit 1</string>
+    <string name="unit_2">Unit 2</string>
+    <string name="sym">$</string>
+    <string name="amount_2">Amount 2</string>
+    <string name="amount_1">Amount 1</string>
+</resources>
