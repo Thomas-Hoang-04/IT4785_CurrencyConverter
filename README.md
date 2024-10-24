@@ -3,12 +3,12 @@
 This repository contains demo for a Currency Converter app  
 
 ## UI Layout Result:
-![Layout Demo](app/result/img_2.png)
+![Layout Demo](app/result/Currency_Converter_3.png)
 
 ---
 ## Demo Result:
-| ![Function Demo](app/result/img_1.png) | ![Function Demo](app/result/img.png) |
-|:--------------------------------------:|:------------------------------------:|
+| ![Function Demo](app/result/Currency_Converter_2.png) | ![Function Demo](app/result/Currency_Converter_1.png) |
+|:-----------------------------------------------------:|:-----------------------------------------------------:|
 
 **Course details:** _Developing Mobile Applications - IT4785 - Hanoi University of Science and Technology._
 
